@@ -79,3 +79,6 @@ DerivedDataCache/*
 
 
 # End of https://www.gitignore.io/api/unrealengine
+ProvingGrounds/Intermediate/
+ProvingGrounds/Saved/
+ProvingGrounds/Content/StarterContent/
